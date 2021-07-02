@@ -1,0 +1,27 @@
+﻿  Game.cpp
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(44,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(45,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(46,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(56,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(57,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(58,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(66,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(67,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(68,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(77,38): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(89,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(90,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(91,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(102,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(103,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(104,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(113,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(114,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(115,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(129,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(130,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(131,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\SFML_New\Game.cpp(279,20): warning C4018: '<': signed/unsigned mismatch
+  SFML_New.vcxproj -> C:\1All_Shit\Visual_Studio_Shit\SFML_New_Last\Debug\SFML_New.exe
